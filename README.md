@@ -1,6 +1,5 @@
 # simple-web-server
-A simple web server based on the thread pool model
-This was a partner project
+A simple web server based on the thread pool model. This was a partner project
 
 This project is a simple HTTP web server. The server can handle both
 IPv4 and IPv6. The server is based on the thread pool model. There is 
@@ -15,4 +14,4 @@ My partner implemented handling the clients requests (serving files,
 loadavg, meminfo) while I implemented the server functionality (ability 
 to handle multiple clients, correct response msgs, persistent connections, 
 IPv6 functionality). We both used some code from our textbook to get
-a basic start. This can be found in csapp.c Our code is in main.c 
+a basic start. This can be found in csapp.c. Our code is in main.c 
